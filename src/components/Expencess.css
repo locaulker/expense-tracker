@@ -1,0 +1,10 @@
+.expenses {
+  display: display-inside;
+  justify-content: space-between;
+  align-items: left;
+
+  padding: 0.5rem;
+  margin: 1rem 1rem;
+
+  background-color: #232222;
+}
